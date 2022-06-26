@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-The issues in this repository are setup to interact with Zapier via the Platform UI Private App that I developed.
+The issues in this repository are setup to interact with Zapier via the [GitHub Issues - Platform UI Private App](https://zapier.com/developer/public-invite/163183/41b2e42f9b0b2298f18ce2a9919f1462/) that I developed.
 
 Private apps are integrations that are under active development, or created for private use on Zapier’s developer platform. They are used to connect any API with the 1000's of apps on Zapier.
 
